@@ -17,4 +17,4 @@ To use this app, you can either download the source code and follow these steps:
 **Note: API keys given in util/firebaseSetup.js will not work by the time you clone this repo. They are given there for understanding.**
 
 ### To understand how the project work follow this blog.
-
+https://debarshiraj.hashnode.dev/react-firebase-crud-operations-with-authentication-using-security-rules
