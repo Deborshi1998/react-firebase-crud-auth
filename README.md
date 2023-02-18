@@ -12,7 +12,7 @@ To use this app, you can either download the source code and follow these steps:
 2. Navigate to the project directory in the command line.
 3. Run npm install to install the required dependencies.
 4. Run npm start to start the development server.
-5. Open a browser and navigate to http://localhost:3000/ to play the game.
+5. Open a browser and navigate to http://localhost:3000/ .
 
 **Note: API keys given in util/firebaseSetup.js will not work by the time you clone this repo. They are given there for understanding.**
 
