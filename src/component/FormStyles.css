@@ -1,0 +1,16 @@
+.form_component_parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  width: 300px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  border: 2px solid #000000;
+}
+
+.form_label {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
